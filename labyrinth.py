@@ -1,5 +1,6 @@
 import numpy
 
+"""Программа создает случайный лабиринт 8х8 и находит из него выход."""
 
 class Block:
     def __init__(self, block_type):
